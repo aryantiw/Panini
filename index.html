@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ancient Indian Language Translator</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Ancient Indian Language Translator</h1>
+  
+    <label for="input">English Text:</label>
+    <br>
+    <textarea id="input" placeholder="Enter English text..."></textarea>
+  
+    <button onclick="translate()">Translate</button>
+  
+    <div id="output">
+      <div class="translation">
+        <label>Sanskrit:</label>
+        <br>
+        <span id="sanskritTranslation"></span>
+      </div>
+  
+      <div class="translation">
+        <label>Pali:</label>
+        <br>
+        <span id="paliTranslation"></span>
+      </div>
+  
+      <div class="translation">
+        <label>Prakrit:</label>
+        <br>
+        <span id="prakritTranslation"></span>
+      </div>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
