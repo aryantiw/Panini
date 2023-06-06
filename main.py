@@ -4,4 +4,4 @@ Bhai yrr kbhi kbhi to kuch krne ka mnn nhi krta hai jeevan ka Satya khojne nikla
 Mai fir aa gya faltu commit krne
 wo heat map bhara bhara dikhna chaiye na
 
-Mai aa gya aaj fir commit krne relationship me commit krne ki umr me yhn commit kr rha hu 
+Mai aa gya aaj fir commit krne relationship me commit krne ki umr me yhn commit kr rha hu kya jeevan ho gya h chukundar jaisa
